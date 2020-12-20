@@ -1,0 +1,19 @@
+{
+  "name": "the-interpretor-app-reactjs",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-sinha12/The-interpretor-App-ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-sinha12/The-interpretor-App-ReactJS/issues"
+  },
+  "homepage": "https://github.com/s-sinha12/The-interpretor-App-ReactJS#readme"
+}
